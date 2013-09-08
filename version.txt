@@ -2,6 +2,13 @@ Un bon conseil Docteur?
 Par Hermès Maheu et Jonathan Tremblay
 TIM – Cégep de St-Jérôme
 ------------------------------------------------------------------------
+VERSION 1.2 (finale)
+Date: 2013-01-14
+Nouveautés:
+- Ajout d'un titre et d'un bouton au début
+Problèmes connus:
+- La bibliothèque contient plusieurs copies inutilisées de la lune
+------------------------------------------------------------------------
 VERSION 1.1 (finale)
 Date: 2011-12-13
 Nouveautés:

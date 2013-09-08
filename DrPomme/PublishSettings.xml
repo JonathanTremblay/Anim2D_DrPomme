@@ -22,24 +22,24 @@
     <qtDefaultName>1</qtDefaultName>
     <rnwkDefaultName>1</rnwkDefaultName>
     <swcDefaultName>1</swcDefaultName>
-    <flashFileName>TREJ7654321_v4f_2011.swf</flashFileName>
-    <projectorWinFileName>TREJ7654321_v4f_2011.exe</projectorWinFileName>
-    <projectorMacFileName>TREJ7654321_v4f_2011.app</projectorMacFileName>
-    <htmlFileName>TREJ7654321_v4f_2011.html</htmlFileName>
-    <gifFileName>TREJ7654321_v4f_2011.gif</gifFileName>
-    <jpegFileName>TREJ7654321_v4f_2011.jpg</jpegFileName>
-    <pngFileName>TREJ7654321_v4f_2011.png</pngFileName>
-    <qtFileName>TREJ7654321_v4f_2011.mov</qtFileName>
-    <rnwkFileName>TREJ7654321_v4f_2011.smil</rnwkFileName>
-    <swcFileName>TREJ7654321_v4f_2011.swc</swcFileName>
+    <flashFileName>TREJ7654321_v4g_2012.swf</flashFileName>
+    <projectorWinFileName>TREJ7654321_v4g_2012.exe</projectorWinFileName>
+    <projectorMacFileName>TREJ7654321_v4g_2012.app</projectorMacFileName>
+    <htmlFileName>TREJ7654321_v4g_2012.html</htmlFileName>
+    <gifFileName>TREJ7654321_v4g_2012.gif</gifFileName>
+    <jpegFileName>TREJ7654321_v4g_2012.jpg</jpegFileName>
+    <pngFileName>TREJ7654321_v4g_2012.png</pngFileName>
+    <qtFileName>TREJ7654321_v4g_2012.mov</qtFileName>
+    <rnwkFileName>TREJ7654321_v4g_2012.smil</rnwkFileName>
+    <swcFileName>TREJ7654321_v4g_2012.swc</swcFileName>
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
-    <VersionInfo>11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
+    <VersionInfo>12,0,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
-    <ContentFilename>TREJ7654321_v4f_2011_content.html</ContentFilename>
-    <AlternateFilename>TREJ7654321_v4f_2011_alternate.html</AlternateFilename>
+    <ContentFilename>TREJ7654321_v4g_2012_content.html</ContentFilename>
+    <AlternateFilename>TREJ7654321_v4g_2012_alternate.html</AlternateFilename>
     <UsingOwnAlternateFile>0</UsingOwnAlternateFile>
     <OwnAlternateFilename></OwnAlternateFilename>
     <Width>550</Width>
@@ -56,7 +56,7 @@
     <WindowMode>0</WindowMode>
     <DisplayMenu>1</DisplayMenu>
     <DeviceFont>0</DeviceFont>
-    <TemplateFileName>C:\Documents and Settings\Jtrembla\Local Settings\Application Data\Adobe\Flash CS4\fr\Configuration\HTML\Default.html</TemplateFileName>
+    <TemplateFileName>C:\Users\Jtrembla\AppData\Local\Adobe\Flash CS6\fr_FR\Configuration\HTML\Default.html</TemplateFileName>
     <showTagWarnMsg>1</showTagWarnMsg>
   </PublishHtmlProperties>
   <PublishFlashProperties enabled="true">
@@ -72,9 +72,9 @@
     <EventFormat>0</EventFormat>
     <EventCompress>7</EventCompress>
     <OverrideSounds>0</OverrideSounds>
-    <Version>8</Version>
+    <Version>9</Version>
     <ExternalPlayer></ExternalPlayer>
-    <ActionScriptVersion>2</ActionScriptVersion>
+    <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
     <AS3PackagePaths>.</AS3PackagePaths>
@@ -162,7 +162,7 @@
     <Animated>0</Animated>
     <MatchMovieDim>1</MatchMovieDim>
     <Loop>1</Loop>
-    <LoopCount></LoopCount>
+    <LoopCount>0</LoopCount>
     <OptimizeColors>1</OptimizeColors>
     <Interlace>0</Interlace>
     <Smooth>1</Smooth>
