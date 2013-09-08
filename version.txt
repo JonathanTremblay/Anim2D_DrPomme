@@ -2,6 +2,13 @@ Un bon conseil Docteur?
 Par Hermès Maheu et Jonathan Tremblay
 TIM – Cégep de St-Jérôme
 ------------------------------------------------------------------------
+VERSION 1.3 Alpha 2
+Date: 2013-09-08
+Nouveautés:
+- Ajout de lignes de contour (chemin, horizon, lune)
+Problèmes connus:
+- (Aucun problème connu)
+------------------------------------------------------------------------
 VERSION 1.3 Alpha 1
 Date: 2013-09-08
 Nouveautés:
