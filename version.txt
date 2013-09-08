@@ -1,0 +1,10 @@
+Un bon conseil Docteur?
+Par Hermès Maheu et Jonathan Tremblay
+TIM – Cégep de St-Jérôme
+------------------------------------------------------------------------
+VERSION 1.1 (finale)
+Date: 2011-12-13
+Nouveautés:
+- Ajout de musiques et d'une lune matricielle
+Problèmes connus:
+- La bibliothèque contient plusieurs copies inutilisées de la lune
