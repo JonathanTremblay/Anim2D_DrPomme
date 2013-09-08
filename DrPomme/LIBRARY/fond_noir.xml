@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbole 1" itemID="4edf8a36-00000043" lastModified="1323794540">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="fond_noir" itemID="522cddd6-00000254" lastModified="1378672086">
   <timeline>
-    <DOMTimeline name="Symbole 1">
+    <DOMTimeline name="fond_noir">
       <layers>
         <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>
