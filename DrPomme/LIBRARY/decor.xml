@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="decor" itemID="4ee7820b-000000e9" lastModified="1378674961">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="decor" itemID="4ee7820b-000000e9" lastModified="1378741507">
   <timeline>
     <DOMTimeline name="decor">
       <layers>
@@ -200,7 +200,7 @@
                     <Point x="-159.15" y="-57.75"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="arbre" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="arbre_pommier" selected="true" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix a="0.489990234375" d="0.489990234375" tx="191.25" ty="191.35"/>
                   </matrix>
@@ -208,7 +208,7 @@
                     <Point x="-159.1" y="-57.95"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="arbre" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="arbre_pommier" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix a="0.649993896484375" d="0.649993896484375" tx="446.75" ty="232.95"/>
                   </matrix>

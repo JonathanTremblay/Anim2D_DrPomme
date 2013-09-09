@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pomme" itemID="4b23cafc-00000015" symbolType="graphic" lastModified="1260636924">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pomme_copie" itemID="522dec5b-000001fe" symbolType="graphic" lastModified="1378741339">
   <timeline>
-    <DOMTimeline name="pomme">
+    <DOMTimeline name="pomme_copie">
       <layers>
         <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>
@@ -51,7 +51,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!199 58S6[236 82 236 131!236 131[236 180 201 214!201 214[167 249 118 249!118 249[69 249 34 214!34 214[0 180 0 131!0 131[0 82 32 57!32 57[64 32 113 58!113 58[162 34 199 58"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!236 131S6[236 180 201 214!201 214[167 249 118 249!118 249[69 249 34 214!34 214[0 180 0 131!0 131[0 82 32 57!32 57[64 32 113 58!113 58[162 34 199 58!199 58[236 82 236 131"/>
                       </edges>
                     </DOMShape>
                   </members>
