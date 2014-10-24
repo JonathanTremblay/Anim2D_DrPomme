@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="decor" selected="true" centerPoint3DX="282.45" centerPoint3DY="198.45">
+                <DOMSymbolInstance libraryItemName="decor" centerPoint3DX="282.45" centerPoint3DY="198.45">
                   <matrix>
                     <Matrix tx="-35.3" ty="-3.05"/>
                   </matrix>
