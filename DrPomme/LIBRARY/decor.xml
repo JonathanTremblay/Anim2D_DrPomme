@@ -95,7 +95,7 @@
                       </LinearGradient>
                     </FillStyle>
                     <FillStyle index="2">
-                      <BitmapFill bitmapPath="lune.bmp" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="lune.bmp">
                         <matrix>
                           <Matrix a="20" d="20" tx="69.2" ty="8.25"/>
                         </matrix>
